@@ -26,6 +26,8 @@
 
 ## Material Design
 - [Material Doc](http://www.materialdoc.com/)
+ 
+
 ## CodePath Code Samples
 - [Beginner Android Samples](https://github.com/codepath/intro_android_demo)
 
