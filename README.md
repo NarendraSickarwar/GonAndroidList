@@ -31,5 +31,8 @@
 ## CodePath Code Samples
 - [Beginner Android Samples](https://github.com/codepath/intro_android_demo)
 
+## Open-Source Apps
+- [Quora on Best Open Android Apps](https://www.quora.com/Android-Applications/What-are-some-of-the-best-open-source-Android-apps)
+
 
 
