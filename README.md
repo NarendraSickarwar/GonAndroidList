@@ -3,6 +3,7 @@
 
 ## Custom Views
 - [Android text drawing fundamentals](http://www.slideshare.net/rtc1/intro-todrawingtextandroid)
+- [Custom ArrayAdapter Demo](https://github.com/codepath/android-custom-array-adapter-demo)
 
 ## Databases
 - [RealmDb](https://realm.io/)
@@ -25,4 +26,8 @@
 
 ## Material Design
 - [Material Doc](http://www.materialdoc.com/)
+##CodePath Code Samples
+- [Beginner Android Samples](https://github.com/codepath/intro_android_demo)
+
+
 
